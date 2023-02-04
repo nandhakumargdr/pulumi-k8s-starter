@@ -1,0 +1,3 @@
+name: pulumi-k8s-starter
+runtime: nodejs
+description: Pulumi k8s starter is a basic pulumi template project to create Kuberneter cluster and configure Loadbalancer, CertManger with LetsEncrypt
